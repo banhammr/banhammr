@@ -1,8 +1,9 @@
 <h5 align="center"> 
-  
-Ი𐑼
+  Ი𐑼
 
-𝖸𝗈𝗎𝗋 𝗏𝖾𝗋𝖽𝗂𝖼𝗍 𝗂𝗌...  𝙶𝚄𝙸𝙻𝚃𝚈!
+
+<div align="center"> 
+         𝖸𝗈𝗎𝗋 𝗏𝖾𝗋𝖽𝗂𝖼𝗍 𝗂𝗌...   <p>${\textsf{\color{#50469d}𝙶𝚄𝙸𝙻𝚃𝚈!}}$
 
 <h5 align="center"> 
 
