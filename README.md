@@ -3,7 +3,9 @@
 
 
 <div align="center"> 
-         𝖸𝗈𝗎𝗋 𝗏𝖾𝗋𝖽𝗂𝖼𝗍 𝗂𝗌...   <p>${\textsf{\color{#50469d}𝙶𝚄𝙸𝙻𝚃𝚈!}}$
+         𝖸𝗈𝗎𝗋 𝗏𝖾𝗋𝖽𝗂𝖼𝗍 𝗂𝗌...   
+<br><br><details>  <summary>${\textsf{\color{#50469d}𝙶𝚄𝙸𝙻𝚃𝚈!}}$</summary>
+<br><p> test lol </details> 
 
 <h5 align="center"> 
 
